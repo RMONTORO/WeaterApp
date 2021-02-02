@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeaterApp</string>
+
+    <string name="texto_grados">13°</string>
+    <string name="texto_ciudad">Mexicali</string>
+    <string name="texto_estatus">Nublado</string>
+    <string name="texto_bienvenida">Welcome!, please select a city</string>
+
+    <string name="texto_boton_mexico">Ciudad de México</string>
+    <string name="texto_boton_berlin">Berlín</string>
+
+</resources>
